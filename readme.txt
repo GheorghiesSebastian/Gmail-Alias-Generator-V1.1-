@@ -1,5 +1,5 @@
-GMAIL ALIAS GENERATOR [V1]
+GMAIL ALIAS GENERATOR [V1.1]
 
 this gmail alias generator works in a very simple manner
 
-it currently doesn't provide many features , but as i learn to randomly index strings in c++ this project will be updated with a bigger range of capabilities
+it currently provides the bare minimum quality of services , however , polishing is required to optimize it's efficiency
